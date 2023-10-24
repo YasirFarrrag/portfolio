@@ -129,6 +129,10 @@ nav div.logo {
   opacity: .7;
 }
 
+nav div.logo:hover {
+    opacity: 1;
+}
+
 nav div.main_list {
   width: 600px;
   height: 65px;
