@@ -472,12 +472,12 @@ section.skills {
 }
 
 .col-one {
-  background-image: url("/Users/mac/Documents/Portfolio/Website/pages/code/images/portrait-blue.png");
+  background-image: url("/images/portrait-blue.png");
   background-position: right;
 }
 
 .col-two {
-  background-image: url("/Users/mac/Documents/Portfolio/Website/pages/code/images/portrait-red.png");
+  background-image: url("/images/portrait-red.png");
   /* background-position-x: -1px; */
   text-align: right;
 }
