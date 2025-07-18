@@ -109,6 +109,7 @@ article, aside, figure, footer, header, hgroup, section {
 
 .is-centered {
     text-align: center;
+    height: 100vh;
 }
 
 nav {
@@ -518,7 +519,7 @@ section.section.is-medium.is-primary.has-text-centered.is-long.bg-yellow {
 .hero-img {
   background: linear-gradient(#f1a01f 85%, #f1bb48 15%);
   height: auto;
-  padding-top: 10rem;
+  padding-top: 7rem;
   width: 100%;
   position: relative;
   z-index: 1;
