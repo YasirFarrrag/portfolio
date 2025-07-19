@@ -677,3 +677,14 @@ ul.project-tech {
 h2.project-title {
   font-size: 1.4rem;
 }
+
+div.project-pop {
+    background-color: #fff;
+    position: fixed;
+    width: calc(100% - 2rem);
+    height: calc(100% - 2rem);
+    top: 0;
+    left: 0;
+    z-index: 9;
+    margin: 1rem;
+}
