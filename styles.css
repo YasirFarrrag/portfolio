@@ -540,6 +540,7 @@ section.section.is-medium.is-primary.has-text-centered.is-long.bg-yellow {
   background-color: #f1bb48;
   padding: 3rem;
   margin-top: -1px;
+  height: 100vh;
 }
 
 h2.has-text-weight-normal {
