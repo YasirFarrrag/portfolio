@@ -574,8 +574,7 @@ footer {
   position: relative;
   overflow: hidden;
   padding-top: 66.6666%;
-  margin: 0.75rem;
-  border-radius: 10px;
+  margin: 0.1rem;
 }
 
 img.project-img {
@@ -634,22 +633,19 @@ ul.project-tech {
 }
 
 .project-tech li {
-  margin: 0.2rem;
-  padding: 0.2rem 0.75rem;
-  background: #fff;
-  color: hsl( var(--clr-dark-blue) );
-  border-radius: 1rem;
-  font-size: 0.5rem;
-  opacity: 0.7;
+    margin: 0.2rem;
+    padding: 0.05rem 0;
+    color: #fff;
+    font-size: 0.7rem;
+    opacity: 0.7;
 }
 
 section#portfolio {
-  padding: 0rem 4.5rem;
+  
 }
 
 .portfolio-content {
-  max-width: 1200px;
-  margin: 0 auto;
+  margin: auto 0.1rem;
   position: relative;
   width: auto;
 }
@@ -663,8 +659,7 @@ a.project-link {
   color: #fff;
   border: 1px solid #f1a01f;
   margin: 0 auto;
-  padding: 0.5rem 1rem;
-  border-radius: 10rem;
+  padding: 0.2rem 0.5rem;
   font-size: 0.9rem;
 }
 
