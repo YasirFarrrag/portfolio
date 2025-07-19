@@ -112,7 +112,7 @@ article, aside, figure, footer, header, hgroup, section {
 }
 
 .hero .is-centered {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #f1bb48;
 }
 
