@@ -733,6 +733,10 @@ display: flex;
     font-weight: 600;
 }
 
+.project-details-left a:hover {
+color: #087f8c;
+}
+
 .project-images {
     display: flex;
     height: 86%;
