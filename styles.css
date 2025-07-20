@@ -719,10 +719,9 @@ display: flex;
         display: flex;
     flex: 0 0 255px;
     flex-direction: column;
-    height: 91%;
+    height: 86%;
     justify-content: space-between;
     max-height: 813px;
-    padding: 0 20px 0 0;
     text-align: left;
     font-size: 0.94rem;
 }
