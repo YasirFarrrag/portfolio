@@ -697,14 +697,14 @@ div.project-pop:target {
 }
 
 a.close {
-   position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
+    position: absolute;
+    top: 0;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 44px;
+    font-weight: 300;
+    text-decoration: none;
+    color: #333;
 }
 
 .project-details {
@@ -745,4 +745,12 @@ display: flex;
 
 .images-slider img:last-child {
  padding-right: 0;
+}
+
+.project-header {
+    padding: 1rem;
+}
+
+.project-header h2 {
+    font-weight: 400;
 }
