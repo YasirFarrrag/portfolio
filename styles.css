@@ -778,3 +778,14 @@ color: #087f8c;
 p.project-description {
     font-size: 0.9rem;
 }
+
+.resume-link {
+    background-color: #ed6723;
+    padding: 1rem;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 0.1rem;
+    display: block;
+    width: fit-content;
+    margin: 2rem auto 0;
+}
