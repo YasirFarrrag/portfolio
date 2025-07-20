@@ -758,3 +758,7 @@ display: flex;
 .project-header h2 {
     font-weight: 400;
 }
+
+p.project-description {
+    font-size: 0.9rem;
+}
