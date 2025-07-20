@@ -76,8 +76,10 @@ select {
 .text-light { color: hsl( var(--clr-light) );}
 .text-dark { color: hsl( var(--clr-dark) );}
 
-@media screen and (min-width: 1024px) {
-
+@media screen and (max-width: 1024px) {
+h2.project-title {
+    font-size: 1rem;
+}
 }
 
 .has-text-centered {
