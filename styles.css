@@ -726,3 +726,23 @@ display: flex;
     max-height: 813px;
     padding: 0 20px 0 0;
 }
+
+.project-images {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.images-slider {
+    box-sizing: content-box;
+    display: flex;
+    height: 100%;
+    position: relative;
+    transition-property: transform;
+    width: 100%;
+    z-index: 1;
+}
