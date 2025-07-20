@@ -750,7 +750,10 @@ display: flex;
 }
 
 .project-header {
-    padding: 1rem;
+    padding-bottom: 1rem;
+    margin: 1rem 1rem 0;
+    text-align: left;
+    border-bottom: 1px solid;
 }
 
 .project-header h2 {
