@@ -740,6 +740,7 @@ display: flex;
 
 .images-slider img {
      object-fit: cover;
+     padding-right: 1rem;
 }
 
 .images-slider img:last-child() {
