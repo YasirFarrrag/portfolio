@@ -713,7 +713,6 @@ display: flex;
     margin: 0;
     overscroll-behavior-y: none;
     padding: 30px 28px 0;
-    width: 100%;
 }
 
 .project-details-left {
@@ -721,16 +720,28 @@ display: flex;
 ;
     flex: 0 0 213px;
     flex-direction: column;
-    height: 93%;
+    height: 91%;
     justify-content: space-between;
     max-height: 813px;
     padding: 0 20px 0 0;
 }
 
 .project-images {
-    
+    display: flex;
+    height: 91%;
+    overflow: hidden;
 }
 
 .images-slider {
-    
+    display: flex;
+    overflow: scroll;
+    width: max-content;
+}
+
+.images-slider img {
+     object-fit: cover;
+}
+
+.images-slider img:last-child() {
+ padding-right: 0;
 }
