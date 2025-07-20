@@ -743,6 +743,6 @@ display: flex;
      padding-right: 1rem;
 }
 
-.images-slider img:last-child() {
+.images-slider img:last-child {
  padding-right: 0;
 }
