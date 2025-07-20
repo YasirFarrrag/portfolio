@@ -84,11 +84,11 @@ h2.project-title {
     min-height: auto !important;
 }
  div.project-pop {
-height:auto;
+height:auto !important;
  }
  .project-details {
- height:auto;
- padding: 30px 28px 30px;
+ height:auto !important;
+ padding: 30px 28px 30px !important;
  }
 }
 
