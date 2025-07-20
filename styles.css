@@ -790,6 +790,6 @@ p.project-description {
     margin: 2rem auto 0;
 }
 
-.resume-link {
+.resume-link:hover {
     background-color: #f1a01f;
 }
