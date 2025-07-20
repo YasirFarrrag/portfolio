@@ -727,6 +727,12 @@ display: flex;
     padding-right: 1rem;
 }
 
+.project-details-left a {
+    text-decoration: none;
+    color: #f1a01f;
+    font-weight: 600;
+}
+
 .project-images {
     display: flex;
     height: 86%;
