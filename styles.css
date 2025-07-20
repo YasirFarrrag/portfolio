@@ -83,6 +83,12 @@ h2.project-title {
  .hero .is-centered {
     min-height: auto !important;
 }
+ div.project-pop {
+height:auto;
+ }
+ .project-details {
+ height:auto;
+ }
 }
 
 .has-text-centered {
