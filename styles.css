@@ -679,6 +679,7 @@ h2.project-title {
 }
 
 div.project-pop {
+    display: flex;
     background-color: #fff;
     position: fixed;
     width: calc(100% - 2rem);
