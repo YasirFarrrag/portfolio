@@ -709,6 +709,11 @@ a.close {
 
 .project-details {
 display: flex;
+ height: calc(100vh - 66px);
+    margin: 0;
+    overscroll-behavior-y: none;
+    padding: 30px 28px 0;
+    width: 100%;
 }
 
 .project-details-left {
