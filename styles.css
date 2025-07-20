@@ -78,10 +78,10 @@ select {
 
 @media screen and (max-width: 1024px) {
 h2.project-title {
-    font-size: 1rem;
+    font-size: 1rem !important;
 }
  .hero .is-centered {
-    min-height: auto;
+    min-height: auto !important;
 }
 }
 
