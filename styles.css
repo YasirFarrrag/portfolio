@@ -99,6 +99,9 @@ height:auto !important;
 p.project-description {
  display: none;
 }
+ .project-details {
+  display: block;
+ }
 }
 
 .has-text-centered {
