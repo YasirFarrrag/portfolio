@@ -272,6 +272,12 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
   display: block;
 }
 
+@media screen and (max-width: 992px) {
+    .project {
+        width: 50%;
+    }
+}
+
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     
   .nav-container{
@@ -476,12 +482,6 @@ section.skills {
   }
   .hor-center {
     font-size: 1.4rem;
-  }
-}
-
-@media screen and (max-width: 992px) {
-  .project {
-    width: 50% !important;
   }
 }
 
