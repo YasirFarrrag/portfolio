@@ -102,6 +102,9 @@ p.project-description {
  .project-details {
   display: block !important;
  }
+ .project-details-left {
+ height: auto !important;
+ }
 }
 
 .has-text-centered {
