@@ -92,6 +92,12 @@ height:auto !important;
  }
 }
 
+@media screen and (max-width: 912px) {
+p.project-description {
+ display: none;
+}
+}
+
 .has-text-centered {
   text-align: center !important;
 }
