@@ -104,7 +104,11 @@ p.project-description {
  }
  .project-details-left {
  height: auto !important;
+  margin-bottom: 1rem !important;
  }
+ .project-images {
+        height: 86% !important;
+    }
 }
 
 .has-text-centered {
