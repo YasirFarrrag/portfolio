@@ -486,7 +486,9 @@ section.skills {
 }
 
 @media screen and (max-width: 992px) {
-  
+  .project {
+    width: 50% !important;
+  }
 }
 
 @media screen and (max-width: 576px) {
