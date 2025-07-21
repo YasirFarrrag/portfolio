@@ -471,7 +471,7 @@ section.skills {
     font-size: 1.4rem;
   }
  .project {
-    width: 50%;
+    width: 50% !important;
 }
 }
 
