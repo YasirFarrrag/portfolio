@@ -359,6 +359,9 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
  section.skills {
     margin-bottom: 2rem;
 }
+ .project {
+    width: 100% !important;
+ }
 }
 
 .spaced {
