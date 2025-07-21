@@ -274,7 +274,7 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
 
 @media screen and (max-width: 992px) {
     .project {
-        width: 50%;
+        width: 50% !important;
     }
 }
 
