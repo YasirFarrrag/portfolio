@@ -453,7 +453,7 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
 
 section.skills {
   background: linear-gradient(#024c67 20%, #fff 20%);
-  margin-bottom: 7rem;
+  margin-bottom: 2.5rem;
 }
 
 @media only screen and (max-width: 600px) {
