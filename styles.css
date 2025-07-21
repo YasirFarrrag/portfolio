@@ -566,7 +566,7 @@ footer {
 }
 
 .footer-logo {
-  width: 4rem;
+  width: 3rem;
   margin:auto auto 2rem;
 }
 
@@ -806,7 +806,7 @@ p.project-description {
 }
 
 .fa {
-  font-size: 30px !important;
+  font-size: 22px !important;
   text-align: center;
   text-decoration: none;
   margin: 5px 15px;
