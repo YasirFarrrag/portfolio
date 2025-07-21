@@ -87,8 +87,11 @@ h2.project-title {
 height:auto !important;
  }
  .project-details {
- height:auto !important;
+ height:50vh !important;
  padding: 30px 28px 30px !important;
+ }
+ .project-images {
+  height: 100% !important;
  }
 }
 
@@ -457,13 +460,12 @@ section.skills {
   .hor-center {
     font-size: 1.4rem;
   }
+ .project {
+    width: 50%;
+}
 }
 
 @media screen and (max-width: 992px) {
-  
-}
-
-@media screen and (max-width: 768px) {
   
 }
 
