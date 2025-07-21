@@ -333,6 +333,9 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
   nav div.media_button{
       display: block;
   }
+ .project {
+    width: 50%;
+ }
 }
 
 .spaced {
