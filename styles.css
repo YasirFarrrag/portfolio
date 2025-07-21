@@ -193,12 +193,11 @@ nav div.main_list ul li a {
     color: #fff;
     line-height: 65px;
     text-transform: uppercase;
-    opacity: .7;
  background-color: #f1a01f;
 }
 
 nav div.main_list ul li a:hover{
-  opacity: 1;
+  background-color: #ed6723;
 }
 
 nav div.media_button {
