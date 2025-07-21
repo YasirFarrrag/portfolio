@@ -101,6 +101,7 @@ p.project-description {
 }
  .project-details {
   display: block !important;
+  height: fit-content !important;
  }
  .project-details-left {
  height: auto !important;
