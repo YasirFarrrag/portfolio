@@ -336,18 +336,7 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
     flex-direction: row;
     margin: auto;
     padding-left: 5rem;
-  }
-
-  .tab1 a {
-    background-color: #c3c3c3;
-  }
-
-  .tab2 a {
-    background-color: #777;
-  }
-
-  .tab3 a {
-    background-color: #444;
+   background-color: #f1a01f;
   }
   
   nav div.media_button{
