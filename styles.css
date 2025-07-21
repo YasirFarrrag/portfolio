@@ -796,7 +796,6 @@ color: #087f8c;
 .images-slider img {
      object-fit: cover;
      padding-right: 1rem;
-     max-width: none;
 }
 
 .images-slider img:last-child {
