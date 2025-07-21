@@ -567,6 +567,12 @@ footer {
 
 .footer-logo {
   width: 4rem;
+  margin:auto auto 2rem;
+}
+
+.icons {
+    margin: auto;
+    width: fit-content;
 }
 
 .projects-container {
@@ -800,12 +806,10 @@ p.project-description {
 }
 
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 30px !important;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 5px 15px;
   color: #fff;
 }
 
