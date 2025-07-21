@@ -100,7 +100,7 @@ p.project-description {
  display: none;
 }
  .project-details {
-  display: block;
+  display: block !important;
  }
 }
 
