@@ -298,8 +298,8 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
   
   nav div.main_list{
       width: 100%;
-      margin-top: 0;
-      height: 0px;
+      margin-top: 96px;
+      height: auto;
       overflow: hidden;
   }
   
@@ -309,7 +309,7 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
   
   nav div.main_list ul{
       flex-direction: column;
-      width: 100%;
+      width: 50%;
       height: 100vh;
       top: 80px;
       right: 0;
