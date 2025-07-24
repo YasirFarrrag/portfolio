@@ -196,10 +196,6 @@ nav div.main_list ul li a {
  background-color: #f1a01f;
 }
 
-nav div.main_list ul li a:hover{
-  background-color: #ed6723;
-}
-
 nav div.media_button {
   width: 40px;
   height: 40px;
@@ -362,6 +358,12 @@ nav div.media_button button.active:hover span:nth-of-type(3) {
     margin-left: -0.75rem;
     margin-right: -0.75rem;
     margin-top: -0.75rem;
+}
+
+@media screen and (max-width: 769) {
+nav div.main_list ul li a:hover{
+  background-color: #ed6723;
+}
 }
 
 @media screen and (min-width: 769px), print {
