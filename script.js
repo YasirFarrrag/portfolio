@@ -1,7 +1,7 @@
 var mainListDiv = document.getElementById("mainListDiv"),
     mediaButton = document.getElementById("mediaButton");
 
-mediaButton.onclick = function () {
+mediaButton.onclick = function() {
     
     "use strict";
     
